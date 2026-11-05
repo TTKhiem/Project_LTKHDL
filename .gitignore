@@ -3,6 +3,10 @@
 /data/processed/*
 !/data/processed/.gitkeep
 
+# Local PhishVN source and evaluation archives
+/PhishVN_v*_open.zip
+/PhishVN_v*_results_bundle.zip
+
 # Python / Jupyter local files
 .venv/
 .env/
@@ -12,3 +16,4 @@ __pycache__/
 */.ipynb_checkpoints/
 .DS_Store
 Thumbs.db
+openspec/
