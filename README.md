@@ -87,8 +87,8 @@ Each question notebook retains a group-authored section for method choices, inte
 
 | ID | Question | Owner |
 |---|---|---|
-| Q1 | Does URL-structure complexity differ between phishing and benign URLs within comparable URL-length groups? | Tiết Trọng Khiêm |
-| Q2 | How is HTTPS associated with phishing labels after accounting for TLD and URL length? | Tiết Trọng Khiêm |
+| Q1 | Within comparable URL-length and TLD strata, which URL-structure features differ between phishing and benign URLs, and are the direction and magnitude consistent across strata and reasonable grouping choices? | Tiết Trọng Khiêm |
+| Q2 | How is HTTPS associated with phishing labels before and after stratifying by TLD and URL length, and does the association persist under domain bootstrap and alternative grouping choices? | Tiết Trọng Khiêm |
 | Q3 | Does the TLD/label relationship change when rare TLDs are pooled and URL length is considered? | Lê Kiến Quốc |
 | Q4 | Do repeated hostnames have a different phishing share from singleton hostnames, and how does this vary by TLD? | Lê Kiến Quốc |
 | Q5 | How consistent is the auxiliary abuse metadata with main labels under URL and hostname matching rules? | Trịnh Tấn Phát |

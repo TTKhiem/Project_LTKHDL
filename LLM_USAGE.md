@@ -8,3 +8,5 @@ Ghi lại những lần sử dụng LLM đáng kể theo yêu cầu môn học. 
 | 05/11 | `24127485` | `OpenAI Codex (GPT-6)` | Hỗ trợ rà soát rubric/repo, triển khai helper và code tính toán/biểu đồ cho EDA Q1–Q5, sửa lỗi và chạy lại notebook. | Code và bảng/biểu đồ được tạo hoặc chỉnh sửa với hỗ trợ của Codex. |
 | 17/11 | `24127058` | `OpenAI Codex (GPT-6)` | Sửa lại một vài sạn trong notebook 1 | Chỉnh lại câu từ và loại bỏ những phần dư thừa |
 | 19/11 | `24127058` | `OpenAI Codex (GPT-6)` | Sửa lại một vài sạn trong notebook 1 | Chỉnh lại câu từ và loại bỏ những phần dư thừa |
+| 20/11 | `24127058` | `OpenAI Codex (GPT-6)` | Chỉnh sửa các Q1, Q2 và code lại từ đầu| Codex hỗ  trợ code và giải thích |
+| 21/11 | `24127058` | `OpenAI Codex (GPT-6)` | Hỏi lại các khái niệm trong Q1/Q2 | LLM giải thích lại các phần thành viên chưa hiểu |
